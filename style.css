@@ -10,3 +10,7 @@ text-align: center;
 .spin{
     text-align: center;
 }
+
+.card{
+    width: fit-content;
+}
